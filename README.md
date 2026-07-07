@@ -15,9 +15,6 @@ This project is a cybersecurity awareness presentation focused on phishing attac
 * Security best practices
 * Interactive quizzes
 
-Project File
-
-* `Phishing_Awareness_Training_Detailed.pptx`
 
 Objectives
 
